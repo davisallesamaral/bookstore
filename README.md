@@ -1,3 +1,16 @@
+This is very small project create to help beginners.
+In this project I am showing some particularities from REACT.js 
+
+## What you will see: 
+Creating and configuring the project
+Defining the html structure of the author record
+Consuming the API and bringing our listing to life
+Registering new authors and updating components
+Isolating the author's components and improving communication between them
+React Router and the navigation support
+Registration of a book 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
